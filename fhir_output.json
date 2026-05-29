@@ -1,0 +1,452 @@
+[
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "Eritrosit"
+    },
+    "valueQuantity": {
+      "value": 4.5,
+      "unit": "juta/\u00b5l"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "Hemoglobin"
+    },
+    "valueQuantity": {
+      "value": 13.2,
+      "unit": "g/dL"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "Hematokrit"
+    },
+    "valueQuantity": {
+      "value": 44.0,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "Basofil"
+    },
+    "valueQuantity": {
+      "value": 0.5,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "Eosinofil"
+    },
+    "valueQuantity": {
+      "value": 2.0,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "Batang"
+    },
+    "valueQuantity": {
+      "value": 4.0,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "Segmen"
+    },
+    "valueQuantity": {
+      "value": 60.0,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "Limfosit"
+    },
+    "valueQuantity": {
+      "value": 30.0,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "Monosit"
+    },
+    "valueQuantity": {
+      "value": 5.0,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "Laju Endap Darah"
+    },
+    "valueQuantity": {
+      "value": 12.0,
+      "unit": "mm/jam"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "Leukosit"
+    },
+    "valueQuantity": {
+      "value": 7.5,
+      "unit": "10^3/\u00b5l"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "MCH"
+    },
+    "valueQuantity": {
+      "value": 29.0,
+      "unit": "pg"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "MCHC"
+    },
+    "valueQuantity": {
+      "value": 34.0,
+      "unit": "g/dL"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "MCV"
+    },
+    "valueQuantity": {
+      "value": 90.0,
+      "unit": "fl"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1001"
+    },
+    "code": {
+      "text": "Trombosit"
+    },
+    "valueQuantity": {
+      "value": 250.0,
+      "unit": "10^3/\u00b5l"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "Eritrosit"
+    },
+    "valueQuantity": {
+      "value": 5.1,
+      "unit": "juta/\u00b5l"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "Hemoglobin"
+    },
+    "valueQuantity": {
+      "value": 15.0,
+      "unit": "g/dL"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "Hematokrit"
+    },
+    "valueQuantity": {
+      "value": 50.0,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "Basofil"
+    },
+    "valueQuantity": {
+      "value": 0.7,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "Eosinofil"
+    },
+    "valueQuantity": {
+      "value": 1.5,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "Batang"
+    },
+    "valueQuantity": {
+      "value": 3.0,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "Segmen"
+    },
+    "valueQuantity": {
+      "value": 65.0,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "Limfosit"
+    },
+    "valueQuantity": {
+      "value": 25.0,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "Monosit"
+    },
+    "valueQuantity": {
+      "value": 6.0,
+      "unit": "%"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "Laju Endap Darah"
+    },
+    "valueQuantity": {
+      "value": 8.0,
+      "unit": "mm/jam"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "Leukosit"
+    },
+    "valueQuantity": {
+      "value": 8.0,
+      "unit": "10^3/\u00b5l"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "MCH"
+    },
+    "valueQuantity": {
+      "value": 30.0,
+      "unit": "pg"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "MCHC"
+    },
+    "valueQuantity": {
+      "value": 35.0,
+      "unit": "g/dL"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "MCV"
+    },
+    "valueQuantity": {
+      "value": 92.0,
+      "unit": "fl"
+    },
+    "effectiveDateTime": "2026-05-25"
+  },
+  {
+    "resourceType": "Observation",
+    "status": "final",
+    "subject": {
+      "reference": "Patient/1002"
+    },
+    "code": {
+      "text": "Trombosit"
+    },
+    "valueQuantity": {
+      "value": 300.0,
+      "unit": "10^3/\u00b5l"
+    },
+    "effectiveDateTime": "2026-05-25"
+  }
+]

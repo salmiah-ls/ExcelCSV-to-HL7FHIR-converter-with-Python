@@ -1,0 +1,31 @@
+patient_id,name,gender,test,result,unit,reference_range,date
+1001,Siti Aminah,P,Eritrosit,4.5,juta/µl,"4.0-5.0",2026-05-25
+1001,Siti Aminah,P,Hemoglobin,13.2,g/dL,"12.0-14.0",2026-05-25
+1001,Siti Aminah,P,Hematokrit,44,%, "40-50",2026-05-25
+1001,Siti Aminah,P,Basofil,0.5,%, "0.0-1.0",2026-05-25
+1001,Siti Aminah,P,Eosinofil,2.0,%, "1.0-3.0",2026-05-25
+1001,Siti Aminah,P,Batang,4.0,%, "2.0-6.0",2026-05-25
+1001,Siti Aminah,P,Segmen,60.0,%, "50.0-70.0",2026-05-25
+1001,Siti Aminah,P,Limfosit,30.0,%, "20.0-40.0",2026-05-25
+1001,Siti Aminah,P,Monosit,5.0,%, "2.0-8.0",2026-05-25
+1001,Siti Aminah,P,LED,12,mm/jam,"<15",2026-05-25
+1001,Siti Aminah,P,Leukosit,7.5,10^3/µl,"5.0-10.0",2026-05-25
+1001,Siti Aminah,P,MCH,29,pg,"27-31",2026-05-25
+1001,Siti Aminah,P,MCHC,34,g/dL,"32-36",2026-05-25
+1001,Siti Aminah,P,MCV,90,fl,"80-96",2026-05-25
+1001,Siti Aminah,P,Trombosit,250,10^3/µl,"150-400",2026-05-25
+1002,Budi Santoso,L,Eritrosit,5.1,juta/µl,"4.5-5.5",2026-05-25
+1002,Budi Santoso,L,Hemoglobin,15.0,g/dL,"13.0-16.0",2026-05-25
+1002,Budi Santoso,L,Hematokrit,50,%, "45-55",2026-05-25
+1002,Budi Santoso,L,Basofil,0.7,%, "0.0-1.0",2026-05-25
+1002,Budi Santoso,L,Eosinofil,1.5,%, "1.0-3.0",2026-05-25
+1002,Budi Santoso,L,Batang,3.0,%, "2.0-6.0",2026-05-25
+1002,Budi Santoso,L,Segmen,65.0,%, "50.0-70.0",2026-05-25
+1002,Budi Santoso,L,Limfosit,25.0,%, "20.0-40.0",2026-05-25
+1002,Budi Santoso,L,Monosit,6.0,%, "2.0-8.0",2026-05-25
+1002,Budi Santoso,L,LED,8,mm/jam,"<10",2026-05-25
+1002,Budi Santoso,L,Leukosit,8.0,10^3/µl,"5.0-10.0",2026-05-25
+1002,Budi Santoso,L,MCH,30,pg,"27-31",2026-05-25
+1002,Budi Santoso,L,MCHC,35,g/dL,"32-36",2026-05-25
+1002,Budi Santoso,L,MCV,92,fl,"80-96",2026-05-25
+1002,Budi Santoso,L,Trombosit,300,10^3/µl,"150-400",2026-05-25
