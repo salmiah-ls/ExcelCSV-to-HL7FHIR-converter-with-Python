@@ -1,4 +1,4 @@
-# ExcelCSV to HL7FHIR converter with Python
+# Excel/CSV to HL7 FHIR Converter with Python
 
 Currently developing a healthcare data engineering project inspired by Indonesia’s SATUSEHAT ecosystem.
 
