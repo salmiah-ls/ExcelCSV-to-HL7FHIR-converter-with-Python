@@ -15,3 +15,7 @@ Main components:
 - Exploration of AWS-based deployment for scalable processing
 
 This project highlights real-world challenges in healthcare interoperability, including messy data handling, terminology mapping, validation, and scalable pipeline design.
+
+Reference:
+SATUSEHAT FHIR documentation:
+https://satusehat.kemkes.go.id/platform/docs/id/fhir/
