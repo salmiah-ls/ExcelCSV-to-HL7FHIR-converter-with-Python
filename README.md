@@ -4,6 +4,8 @@ Currently developing a healthcare data engineering project inspired by Indonesia
 
 The project focuses on transforming raw laboratory data (Excel/CSV) into HL7 FHIR-compliant resources ready for integration into national healthcare platforms.
 
+HL7 FHIR (Fast Healthcare Interoperability Resources) is a healthcare data standard designed to enable interoperable and structured exchange of medical information between healthcare systems.
+
 Main components:
 • Python for data processing and transformation
 • FHIR Observation resource mapping
